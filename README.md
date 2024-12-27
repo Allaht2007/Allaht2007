@@ -20,10 +20,10 @@
 </div>
 
 <div align="left">
-    <img src="https://github-readme-stats.vercel.app/api?username=Allaht2007&show_icons=true&locale=en&bg_color=45,FF4B2B,FF346C&title_color=000000&text_color=000000&border_color=000000&icon_color=000000#gh-dark-mode-only" height="160" alt="User Stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=Allaht2007&show_icons=true&locale=en&bg_color=45,FF4B2B,FF346C&title_color=ffffff&text_color=ffffff&border_color=000000&icon_color=ffffff#gh-light-mode-only" height="160" alt="User Stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Allaht2007&layout=compact&&bg_color=45,FF4B2B,FF346C&title_color=000000&text_color=000000&border_color=000000&icon_color=000000#gh-dark-mode-only" height="160" alt="Most usedlLanguages">
-     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Allaht2007&layout=compact&&bg_color=45,FF4B2B,FF346C&title_color=ffffff&text_color=ffffff&border_color=000000&icon_color=ffffff#gh-light-mode-only" height="160" alt="Most usedlLanguages">
+    <img src="https://github-readme-stats.vercel.app/api?username=Allaht2007&show_icons=true&locale=en&bg_color=45,FF4B2B,FF346C&title_color=000000&text_color=000000&border_color=000000&icon_color=000000" height="160" alt="User Stats">
+   
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Allaht2007&layout=compact&&bg_color=45,FF4B2B,FF346C&title_color=000000&text_color=000000&border_color=000000&icon_color=000000" height="160" alt="Most usedlLanguages">
+    
 </div>
 
 <h3 style="color:#ffffff;">  
